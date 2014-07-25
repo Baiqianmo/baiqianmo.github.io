@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[庭园]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://shana.me/"/>
+  <updated>2014-07-25T02:15:21.575Z</updated>
+  <id>http://shana.me/</id>
+  
+  <author>
+    <name><![CDATA[佰千莫]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[bilibili未注册昵称检测工具]]></title>
+    <link href="http://shana.me/2014/07/16/bilibili-check-name/"/>
+    <id>http://shana.me/2014/07/16/bilibili-check-name/</id>
+    <published>2014-07-16T03:11:49.000Z</published>
+    <updated>2014-07-16T04:19:19.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://shana.qiniudn.com/2014-07-16_121142.jpg" alt="使用图"></p>
+<p>这是一款检测哔哩哔哩未注册昵称的工具,你可用它检测你喜欢的昵称是否注册</p>
+<p>很早以前写的了ww,最近发现哔哩哔哩的域名有变,于是就稍作修改/w\,以前的版本测试过没什么问题.</p>
+<p>下载地址 : <a href="http://pan.baidu.com/s/1kT7LJBT" target="_blank" rel="external">http://pan.baidu.com/s/1kT7LJBT</a></p>
+<p>注意:</p>
+<ul>
+<li>此软件只支持WindowsXP 以上平台</li>
+<li>不支持简体中文以外的Windows操作系统(会导致乱码)</li>
+<li>禁止商用</li>
+</ul>
+<p>更新日志:</p>
+<ul>
+<li>2014-07-16<br>　　修改检测地址<br>　　描述略微改变</li>
+<li>2014-06-01<br>　　自动检查更新,版本号挂在SAE上<br>　　增加多线程<br>　　UI略微改变</li>
+<li>2014-02-01<br>　　简单的检测未注册<br>　　创建</li>
+</ul>
+]]></content>
+    
+    
+      <category term="bilibili" scheme="http://shana.me/tags/bilibili/"/>
+    
+      <category term="无聊的产物" scheme="http://shana.me/tags/%E6%97%A0%E8%81%8A%E7%9A%84%E4%BA%A7%E7%89%A9/"/>
+    
+      <category term="工具" scheme="http://shana.me/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="走进科学" scheme="http://shana.me/categories/%E8%B5%B0%E8%BF%9B%E7%A7%91%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[再见，乐视。]]></title>
+    <link href="http://shana.me/2014/07/06/ad-letv/"/>
+    <id>http://shana.me/2014/07/06/ad-letv/</id>
+    <published>2014-07-06T02:19:31.000Z</published>
+    <updated>2014-07-06T02:23:58.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://shana.qiniudn.com/2014-07-06_095105.png" alt="hosts屏蔽"></p>
+<p>说说乐视丧心病狂的广告方式吧:开头60s,<strong>中间10s</strong>,没错,它中间也要给你插一个长达10s的广告!喂喂!我还看着番呢结果右下角就给我一个”广告时间马上回来”,还让不让人和你愉快的玩耍了QAQ<br><strong>下载大法好,退bili保平安</strong></p>
+]]></content>
+    
+    
+      <category term="ACG" scheme="http://shana.me/tags/ACG/"/>
+    
+      <category term="乐视" scheme="http://shana.me/tags/%E4%B9%90%E8%A7%86/"/>
+    
+      <category term="这只是日常" scheme="http://shana.me/categories/%E8%BF%99%E5%8F%AA%E6%98%AF%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[One more time, One more chance]]></title>
+    <link href="http://shana.me/2014/06/29/one-more-time-one-more-chance/"/>
+    <id>http://shana.me/2014/06/29/one-more-time-one-more-chance/</id>
+    <published>2014-06-29T02:02:09.000Z</published>
+    <updated>2014-06-29T02:06:47.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://shana.qiniudn.com/5.Centimeters.Per.Second.full.68016.jpg" alt="远野贵树&amp;篠原明里"></p>
+]]></content>
+    
+    
+      <category term="ACG" scheme="http://shana.me/tags/ACG/"/>
+    
+      <category term="这只是日常" scheme="http://shana.me/categories/%E8%BF%99%E5%8F%AA%E6%98%AF%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[无题]]></title>
+    <link href="http://shana.me/2014/06/25/no-title/"/>
+    <id>http://shana.me/2014/06/25/no-title/</id>
+    <published>2014-06-25T08:33:36.000Z</published>
+    <updated>2014-06-25T12:34:03.000Z</updated>
+    <content type="html"><![CDATA[<p>1781MMKWXENYR9FCTC<br>1781CLHYGAWHY7YMXW</p>
+]]></content>
+    
+    
+      <category term="这只是日常" scheme="http://shana.me/categories/%E8%BF%99%E5%8F%AA%E6%98%AF%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Elementary OS 试用中]]></title>
+    <link href="http://shana.me/2014/05/01/elementary-os-try/"/>
+    <id>http://shana.me/2014/05/01/elementary-os-try/</id>
+    <published>2014-05-01T06:46:06.000Z</published>
+    <updated>2014-06-25T13:29:48.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://shana.qiniudn.com/2014-05-01-122809%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-1024x640.jpg" alt=""></p>
+<p>&nbsp;</p>
+<p><img src="http://shana.qiniudn.com/2014-05-01-122904%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-1024x640.jpg" alt=""></p>
+]]></content>
+    
+    
+      <category term="Linux" scheme="http://shana.me/tags/Linux/"/>
+    
+      <category term="这只是日常" scheme="http://shana.me/tags/%E8%BF%99%E5%8F%AA%E6%98%AF%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="这只是日常" scheme="http://shana.me/categories/%E8%BF%99%E5%8F%AA%E6%98%AF%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[KonaChan图片地址采集工具]]></title>
+    <link href="http://shana.me/2014/01/19/konachan-tag-muster/"/>
+    <id>http://shana.me/2014/01/19/konachan-tag-muster/</id>
+    <published>2014-01-19T10:38:18.000Z</published>
+    <updated>2014-06-25T13:25:42.000Z</updated>
+    <content type="html"><![CDATA[<p><address>下载地址:<a href="http://pan.baidu.com/s/1gdeJiJT" target="_blank" rel="external">http://pan.baidu.com/s/1gdeJiJT</a></address>&nbsp;</p>
+<p><strong>使用方法:</strong></p>
+<p>1.复制标签</p>
+<p><img src="http://shana.qiniudn.com/2014-01-17_112202.png" alt=""></p>
+<p><img src="http://shana.qiniudn.com/2014-01-17_112328.png" alt=""></p>
+<p>2.填写页数</p>
+<p><img src="http://shana.qiniudn.com/2014-01-17_112532.png" alt=""></p>
+<p>3.把地址黏贴至迅雷,推荐勾选合并为任务组</p>
+<p><img src="http://shana.qiniudn.com/2014-01-17_114924.png" alt=""></p>
+<p>&nbsp;</p>
+]]></content>
+    
+    
+      <category term="ACG" scheme="http://shana.me/tags/ACG/"/>
+    
+      <category term="KonaChan" scheme="http://shana.me/tags/KonaChan/"/>
+    
+      <category term="走进科学" scheme="http://shana.me/tags/%E8%B5%B0%E8%BF%9B%E7%A7%91%E5%AD%A6/"/>
+    
+      <category term="走进科学" scheme="http://shana.me/categories/%E8%B5%B0%E8%BF%9B%E7%A7%91%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[NProgress.js 仿youtube顶部进度条]]></title>
+    <link href="http://shana.me/2014/01/15/nprogress-js-youtube/"/>
+    <id>http://shana.me/2014/01/15/nprogress-js-youtube/</id>
+    <published>2014-01-15T09:56:54.000Z</published>
+    <updated>2014-06-26T03:27:05.000Z</updated>
+    <content type="html"><![CDATA[<p>都看到我博客顶部的进度条了把<em>(:з」∠)</em></p>
+<a id="more"></a>
+
+<p>ps：现在没有了0.0</p>
+<p>项目地址:<a href="https://github.com/rstacruz/nprogress" target="_blank" rel="external">https://github.com/rstacruz/nprogress</a></p>
+<p>简单的调用方法:</p>
+<pre class="lang:js decode:true crayon-selected">NProgress.start();
+NProgress.done();</pre>]]></content>
+    <summary type="html"><![CDATA[<p>都看到我博客顶部的进度条了把<em>(:з」∠)</em></p>
+]]></summary>
+    
+      <category term="CSS" scheme="http://shana.me/tags/CSS/"/>
+    
+      <category term="WordPress" scheme="http://shana.me/tags/WordPress/"/>
+    
+      <category term="走进科学" scheme="http://shana.me/categories/%E8%B5%B0%E8%BF%9B%E7%A7%91%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Happy new year 2014]]></title>
+    <link href="http://shana.me/2013/12/31/happy-new-year-2014/"/>
+    <id>http://shana.me/2013/12/31/happy-new-year-2014/</id>
+    <published>2013-12-31T04:56:44.000Z</published>
+    <updated>2014-06-25T12:31:28.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    
+    
+      <category term="2014" scheme="http://shana.me/tags/2014/"/>
+    
+      <category term="这只是日常" scheme="http://shana.me/tags/%E8%BF%99%E5%8F%AA%E6%98%AF%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="这只是日常" scheme="http://shana.me/categories/%E8%BF%99%E5%8F%AA%E6%98%AF%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+</feed>
